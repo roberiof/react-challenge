@@ -1,0 +1,19 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.page{
+  width: 100vw;
+  height: 100vh; 
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+  background-color: lightsteelblue;
+}
+
+
+.circle{
+  position: absolute;
+  margin: -10px;
+}
